@@ -25,7 +25,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
-[<img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" style="padding-right:10px;" />][c++]
+[<img align="left" alt="c++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />][c++]
 
 [<img align="left" alt="c#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg" style="padding-right:10px;" />][c#]
 
