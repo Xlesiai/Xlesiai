@@ -10,16 +10,21 @@
 
 - 🎨 My Hobbies include playing Video Games, Hanging out with friends, and Drawing! 🎨
 
-### Projects:
+### Projects
 
-[Kishotenketsu Patch it Later](https://www.youtube.com/playlist?list=PLzhOA58UvV9PR46DcwpQZ50eiZXSEo8Ph)
+[Kishotenketsu Patch it Later](https://github.com/Xlesiai/Kishotenketsu-Patch-it-Later)
 &nbsp;&nbsp;
-[Ikea Level Design](https://www.youtube.com/playlist?list=PLzhOA58UvV9OmnW14E2tdXG65d9mRcDBA)
+[Ikea Level Design](https://github.com/Xlesiai/Ikea-Level-Design)
 &nbsp;&nbsp;
-[Fire Temple Level Design](https://www.youtube.com/playlist?list=PLzhOA58UvV9PQWqKbFqEgF0sX4Wwo6scu)
+[Fire Temple Level Design](https://github.com/Xlesiai/Fire-Temple-Level-Design)
 &nbsp;&nbsp;
 
-### Connect with me:
+### Working Projects
+- [Wizard Battles](https://github.com/Xlesiai/Wizard-Battles)
+- [Ghost Chess](https://github.com/Xlesiai/Ghost-Chess)
+- [The Land of Zov](https://github.com/Xlesiai/Zov)
+
+### Connect with me
 [website](Nuxglwk.space)
 &nbsp;&nbsp;
 [youtube](https://youtube.com/michael-cardoso-5b658416b)
@@ -27,7 +32,7 @@
 [email](Nuxglwk.Xlesiai@gmail.com)
 &nbsp;&nbsp;
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />][unity]
 
