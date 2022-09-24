@@ -10,12 +10,14 @@
 
 - 🎨 My Hobbies include playing Video Games, Hanging out with friends, and Drawing!
 
-### Projects
+### Projects:
 
-- [Kishotenketsu Patch it Later] (https://www.youtube.com/playlist?list=PLzhOA58UvV9PR46DcwpQZ50eiZXSEo8Ph)
-- [Ikea Level Design] (https://www.youtube.com/playlist?list=PLzhOA58UvV9OmnW14E2tdXG65d9mRcDBA)
-- [Fire Temple Level Design] (https://www.youtube.com/playlist?list=PLzhOA58UvV9PQWqKbFqEgF0sX4Wwo6scu)
-
+[Kishotenketsu Patch it Later] (https://www.youtube.com/playlist?list=PLzhOA58UvV9PR46DcwpQZ50eiZXSEo8Ph)
+&nbsp;&nbsp;
+[Ikea Level Design] (https://www.youtube.com/playlist?list=PLzhOA58UvV9OmnW14E2tdXG65d9mRcDBA)
+&nbsp;&nbsp;
+[Fire Temple Level Design] (https://www.youtube.com/playlist?list=PLzhOA58UvV9PQWqKbFqEgF0sX4Wwo6scu)
+&nbsp;&nbsp;
 
 ### Connect with me:
 [website](Nuxglwk.space)
