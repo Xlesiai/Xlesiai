@@ -21,7 +21,7 @@
 
 [<img align="left" alt="unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />][unity]
 
-[<img align="left" alt="unreal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unreal/unreal-original.svg" style="padding-right:10px;" />][unreal]
+[<img align="left" alt="unreal" width="26px" src="https://www.pngfind.com/pngs/m/476-4762197_this-product-requires-the-speedtree-modeler-to-export.png" style="padding-right:10px;" />][unreal]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
