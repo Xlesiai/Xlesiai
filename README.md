@@ -27,7 +27,7 @@
 
 [<img align="left" alt="c++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />][c++]
 
-[<img align="left" alt="c#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg" style="padding-right:10px;" />][c#]
+[<img align="left" alt="c#" width="26px" src="https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png" style="padding-right:10px;" />][c#]
 
 [<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][python]
 
