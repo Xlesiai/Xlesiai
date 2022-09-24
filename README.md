@@ -2,13 +2,13 @@
 
 ## I am a student at Prairie View A&M University and an aspiring Game Developer with a passion for Fantasy and Single-Player.
 
-- 🧠 Interested in learning more about Unity and Unreal Engines!
+- 🧠 Interested in learning more about Unity and Unreal Engines! 🧠
 
-- 🎯 My long term Goals is to become a Great Game Developer and to publish my passion game!
+- 🎯 My long term Goals is to become a Great Game Developer and to publish my passion game! 🎯
 
-- 👾 I try to improve on all aspects of Game Developing by self improvement and school!
+- 👾 I try to improve on all aspects of Game Developing by self improvement and school! 👾
 
-- 🎨 My Hobbies include playing Video Games, Hanging out with friends, and Drawing!
+- 🎨 My Hobbies include playing Video Games, Hanging out with friends, and Drawing! 🎨
 
 ### Projects:
 
@@ -58,7 +58,7 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats :zap:</summary>
   <img align="left" alt="Xlesiai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xlesiai&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
 
