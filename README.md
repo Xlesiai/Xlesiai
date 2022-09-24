@@ -1,4 +1,4 @@
-# Hello👋, my name is Michael Cardoso [Xlesiai][youtube]  
+# Hello👋, my name is Michael Cardoso/[Xlesiai][youtube]  
 
 ## I am a student at Prairie View A&M University and an aspiring Game Developer with a passion for Fantasy and Single-Player.
 
@@ -10,9 +10,17 @@
 
 - 🎨 My Hobbies include playing Video Games, Hanging out with friends, and Drawing!
 
-### Connect with me:
+### Projects
 
-[website](https://youtube.com/michael-cardoso-5b658416b)
+- [Kishotenketsu Patch it Later] (https://www.youtube.com/playlist?list=PLzhOA58UvV9PR46DcwpQZ50eiZXSEo8Ph)
+- [Ikea Level Design] (https://www.youtube.com/playlist?list=PLzhOA58UvV9OmnW14E2tdXG65d9mRcDBA)
+- [Fire Temple Level Design] (https://www.youtube.com/playlist?list=PLzhOA58UvV9PQWqKbFqEgF0sX4Wwo6scu)
+
+
+### Connect with me:
+[website](Nuxglwk.space)
+&nbsp;&nbsp;
+[youtube](https://youtube.com/michael-cardoso-5b658416b)
 &nbsp;&nbsp;
 [email](Nuxglwk.Xlesiai@gmail.com)
 &nbsp;&nbsp;
@@ -21,7 +29,7 @@
 
 [<img align="left" alt="unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />][unity]
 
-[<img align="left" alt="unreal" width="26px" src="https://www.pngfind.com/pngs/m/476-4762197_this-product-requires-the-speedtree-modeler-to-export.png" style="padding-right:10px;" />][unreal]
+[<img align="left" alt="unreal" width="26px" src="https://www.pngfind.com/pngs/m/435-4350837_unreal-engine-logo-png-transparent-png.png" style="padding-right:10px;" />][unreal]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
