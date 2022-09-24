@@ -29,9 +29,9 @@
 
 [<img align="left" alt="c#" width="26px" src="https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png" style="padding-right:10px;" />][c#]
 
-[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][python]
+[<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />][python]
 
-[<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][java]
+[<img align="left" alt="java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" style="padding-right:10px;" />][java]
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
@@ -59,10 +59,10 @@
 [projects]: https://www.youtube.com/playlist?list=PLzhOA58UvV9MzxItPoCZPwm0j5pmbYiT_
 [unity]: https://www.youtube.com/playlist?list=PLzhOA58UvV9O586KqzJucbWnhDcC7Yb27
 [unreal]: https://www.youtube.com/playlist?list=PLzhOA58UvV9Ne5_fbozCgrhfEsQdsX0YM
-[c++]:
-[c#]:
-[python]:
-[java]:
+[c++]: https://www.youtube.com/watch?v=_bYFu9mBnr4&list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG
+[c#]: https://www.youtube.com/watch?v=qOruiBrXlAw&list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC
+[python]: https://www.youtube.com/watch?v=UjeNA_JtXME&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p
+[java]: https://www.youtube.com/watch?v=r3GGV2TG_vw&list=PL_c9BZzLwBRKIMP_xNTJxi9lIgQhE51rF
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
