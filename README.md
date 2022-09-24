@@ -67,6 +67,10 @@
 [youtube]: https://www.youtube.com/channel/UCdG9FJTgxzhOv5zokt1O12Q/featured
 [linkedin]: https://www.linkedin.com/in/michael-cardoso-5b658416b/
 [projects]: https://www.youtube.com/playlist?list=PLzhOA58UvV9MzxItPoCZPwm0j5pmbYiT_
+[Kishotenketsu Patch it Later]:https://www.youtube.com/playlist?list=PLzhOA58UvV9PR46DcwpQZ50eiZXSEo8Ph
+[Ikea Level Design]: https://www.youtube.com/playlist?list=PLzhOA58UvV9OmnW14E2tdXG65d9mRcDBA
+[Fire Temple Level Design]: https://www.youtube.com/playlist?list=PLzhOA58UvV9PQWqKbFqEgF0sX4Wwo6scu
+
 [unity]: https://www.youtube.com/playlist?list=PLzhOA58UvV9O586KqzJucbWnhDcC7Yb27
 [unreal]: https://www.youtube.com/playlist?list=PLzhOA58UvV9Ne5_fbozCgrhfEsQdsX0YM
 [c++]: https://www.youtube.com/watch?v=_bYFu9mBnr4&list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG
