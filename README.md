@@ -29,7 +29,7 @@
 &nbsp;&nbsp;
 [youtube](https://youtube.com/michael-cardoso-5b658416b)
 &nbsp;&nbsp;
-[email](Nuxglwk.Xlesiai@gmail.com)
+email: Nuxglwk.Xlesiai@gmail.com
 &nbsp;&nbsp;
 
 ### Languages and Tools
@@ -38,7 +38,7 @@
 
 [<img align="left" alt="unreal" width="26px" src="https://www.pngfind.com/pngs/m/435-4350837_unreal-engine-logo-png-transparent-png.png" style="padding-right:10px;" />][unreal]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 
 [<img align="left" alt="c++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />][c++]
 
@@ -50,7 +50,7 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+<!--[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]-->
 
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 
