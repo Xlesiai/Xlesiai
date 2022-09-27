@@ -25,9 +25,9 @@
 - [The Land of Zov](https://github.com/Xlesiai/Zov)
 
 ### Connect with me
-[![website](https://freesvg.org/img/WWW-Icon.png)](Nuxglwk.me)
+[website](Nuxglwk.me)
 &nbsp;&nbsp;
-[![youtube](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://youtube.com/michael-cardoso-5b658416b)
+[youtube](https://youtube.com/michael-cardoso-5b658416b)
 &nbsp;&nbsp;
 <a href="mailto:Nuxglwk.Xlesiai@gmail.com?subject=Mail" alt = "email is Nuxglwk.Xlesiai@gmail.com">email (Nuxglwk.Xlesiai@gmail.com)</a>
 &nbsp;&nbsp;
