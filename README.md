@@ -25,9 +25,9 @@
 - [The Land of Zov](https://github.com/Xlesiai/Zov)
 
 ### Connect with me
-[website](Nuxglwk.me)
+[![website](https://freesvg.org/img/WWW-Icon.png)](Nuxglwk.me)
 &nbsp;&nbsp;
-[youtube](https://youtube.com/michael-cardoso-5b658416b)
+[![youtube](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://youtube.com/michael-cardoso-5b658416b)
 &nbsp;&nbsp;
 <a href="mailto:Nuxglwk.Xlesiai@gmail.com?subject=Mail" alt = "email is Nuxglwk.Xlesiai@gmail.com">email (Nuxglwk.Xlesiai@gmail.com)</a>
 &nbsp;&nbsp;
@@ -56,7 +56,7 @@
 
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/Xlesiai/Xlesiai)
 
 <br>
 <br>
