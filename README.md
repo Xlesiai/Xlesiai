@@ -25,11 +25,11 @@
 - [The Land of Zov](https://github.com/Xlesiai/Zov)
 
 ### Connect with me
-[website](Nuxglwk.space)
+[website](Nuxglwk.me)
 &nbsp;&nbsp;
 [youtube](https://youtube.com/michael-cardoso-5b658416b)
 &nbsp;&nbsp;
-<a href="mailto:Nuxglwk.Xlesiai@gmail.com?subject=Mail" alt = "email is Nuxglwk.Xlesiai@gmail.com">email</a>
+<a href="mailto:Nuxglwk.Xlesiai@gmail.com?subject=Mail" alt = "email is Nuxglwk.Xlesiai@gmail.com">email (Nuxglwk.Xlesiai@gmail.com)</a>
 &nbsp;&nbsp;
 
 ### Languages and Tools
