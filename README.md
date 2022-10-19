@@ -27,7 +27,7 @@
 ### Connect with me
 [website](Nuxglwk.me)
 &nbsp;&nbsp;
-[youtube](https://youtube.com/michael-cardoso-5b658416b)
+[youtube](https://www.youtube.com/channel/UCdG9FJTgxzhOv5zokt1O12Q)
 &nbsp;&nbsp;
 <a href="mailto:Nuxglwk.Xlesiai@gmail.com?subject=Mail" alt = "email is Nuxglwk.Xlesiai@gmail.com">email (Nuxglwk.Xlesiai@gmail.com)</a>
 &nbsp;&nbsp;
