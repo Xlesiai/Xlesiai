@@ -1,6 +1,6 @@
 # Hello👋, my name is Michael Cardoso/[Xlesiai][youtube]  
 
-## I am a student at Prairie View A&M University and an aspiring Game Developer with a passion for Fantasy and Single-Player.
+## Hello guys, my name is Michael Cardoso, I am a current student at Prairie View A&M University and Lone Star College. I aspire to be a Game Developer. I love every aspect of Game Design and Game Developing. My favorite game genres are Fantasy, Single player, and Open-World games, but I love playing all types of game.
 
 - 🧠 Interested in learning more about Unity and Unreal Engines! 🧠
 
