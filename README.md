@@ -12,11 +12,11 @@
 
 ### Projects
 
-[Kishotenketsu Patch it Later](https://github.com/Xlesiai/Kishotenketsu-Patch-it-Later)
+- [Kishotenketsu Patch it Later](https://github.com/Xlesiai/Kishotenketsu-Patch-it-Later)
 &nbsp;&nbsp;
-[Ikea Level Design](https://github.com/Xlesiai/Ikea-Level-Design)
+- [Ikea Level Design](https://github.com/Xlesiai/Ikea-Level-Design)
 &nbsp;&nbsp;
-[Fire Temple Level Design](https://github.com/Xlesiai/Fire-Temple-Level-Design)
+- [Fire Temple Level Design](https://github.com/Xlesiai/Fire-Temple-Level-Design)
 &nbsp;&nbsp;
 
 ### Working Projects
@@ -27,9 +27,9 @@
 ### Connect with me
 [website](Nuxglwk.me)
 &nbsp;&nbsp;
-[youtube (https://www.youtube.com/channel/UCdG9FJTgxzhOv5zokt1O12Q)](https://www.youtube.com/channel/UCdG9FJTgxzhOv5zokt1O12Q)
+[youtube](https://www.youtube.com/channel/UCdG9FJTgxzhOv5zokt1O12Q)
 &nbsp;&nbsp;
-<a href="mailto:Nuxglwk.Xlesiai@gmail.com?subject=Mail" alt = "email is Nuxglwk.Xlesiai@gmail.com">email (Nuxglwk.Xlesiai@gmail.com)</a>
+<a href="mailto:Nuxglwk.Xlesiai@gmail.com?subject=Mail" alt = "email is Nuxglwk.Xlesiai@gmail.com">Nuxglwk.Xlesiai@gmail.com</a>
 &nbsp;&nbsp;
 
 ### Languages and Tools
