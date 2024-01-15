@@ -1,17 +1,23 @@
 # Hello👋, my name is Michael Cardoso/[Xlesiai][youtube]  
 
 
-## Hello guys, my name is Michael Cardoso or Nuxglwk Xlesiai (it's just one letter to the left on the keyboard), I am a current student at Prairie View A&M University and Lone Star College. I aspire to be a Game Developer. I love every aspect of Game Design and Game Developing. My favorite game genres are Fantasy, Single player, and Open-World games, but I love playing all types of game.
+## Hello guys, my name is Michael Cardoso or Nuxglwk Xlesiai (it's just one letter to the left on the keyboard), Igraduated from at Prairie View A&M University with a 4.0 and I aspire to be a Game Developer. 
+I love every aspect of Game Design and Game Developing. My favorite game genres are Fantasy, Single player, and Open-World games, but I love playing all types of games.
 
-- 🧠 Interested in learning more about Unity and Unreal Engines! 🧠
+- 🧠 Interested in learning more about Unity and Unreal Engines 
+- 🎯 My long term Goals is to become a Great Game Developer and to publish my passion game 
+- 👾 I try to improve on all aspects of Game Developing 
+- 🎨 My Hobbies include playing Video Games, Hanging out with friends, and Game Jams 
 
-- 🎯 My long term Goals is to become a Great Game Developer and to publish my passion game! 🎯
+### Software Dev Projects
 
-- 👾 I try to improve on all aspects of Game Developing by self improvement and school! 👾
+- [Senior Design Project (HIDDEN)]()
+&nbsp;&nbsp;
+- [PVAMU RISE (HIDDEN)]()
+&nbsp;&nbsp;
 
-- 🎨 My Hobbies include playing Video Games, Hanging out with friends, and Drawing! 🎨
 
-### Projects
+### Game Dev Projects
 
 - [Kishotenketsu Patch it Later](https://github.com/Xlesiai/Kishotenketsu-Patch-it-Later)
 &nbsp;&nbsp;
@@ -20,17 +26,14 @@
 - [Fire Temple Level Design](https://github.com/Xlesiai/Fire-Temple-Level-Design)
 &nbsp;&nbsp;
 
-### Working Projects
-- [Wizard Battles](https://github.com/Xlesiai/Wizard-Battles)
-- [Ghost Chess](https://github.com/Xlesiai/Ghost-Chess)
-- [The Land of Zov](https://github.com/Xlesiai/Zov)
 
 ### Connect with me
-[website](Nuxglwk.me)
+[website](michael-cardoso.dev)
 &nbsp;&nbsp;
 [youtube](https://www.youtube.com/channel/UCdG9FJTgxzhOv5zokt1O12Q)
 &nbsp;&nbsp;
 <a href="mailto:Nuxglwk.Xlesiai@gmail.com?subject=Mail" alt = "email is Nuxglwk.Xlesiai@gmail.com">Nuxglwk.Xlesiai@gmail.com</a>
+<a href="mailto:mikecar26@gmail.com?subject=Mail" alt = "email is mikecar26@gmail.com">mikecar26@gmail.com</a>
 &nbsp;&nbsp;
 
 ### Languages and Tools
