@@ -1,7 +1,7 @@
 # Hello👋, my name is Michael Cardoso/[Xlesiai][youtube]  
 
 
-## Hello guys, my name is Michael Cardoso or Nuxglwk Xlesiai (it's just one letter to the left on the keyboard), Igraduated from at Prairie View A&M University with a 4.0 and I aspire to be a Game Developer. 
+## Hello guys, my name is Michael Cardoso, I graduated from at Prairie View A&M University with a 4.0 and I aspire to be a Game Developer. 
 I love every aspect of Game Design and Game Developing. My favorite game genres are Fantasy, Single player, and Open-World games, but I love playing all types of games.
 
 - 🧠 Interested in learning more about Unity and Unreal Engines 
