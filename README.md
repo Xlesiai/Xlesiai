@@ -1,89 +1,91 @@
-# Hello👋, my name is Michael Cardoso/[Xlesiai][youtube]  
+<h1 align="center">👋 Hello, I'm Michael Cardoso</h1>
 
+<p align="center">
+  Recent graduate from <b>Prairie View A&M University (4.0 GPA)</b> with a passion for <b>Programming & Game Development</b>.
+</p>
 
-## Hello guys, my name is Michael Cardoso, I graduated from at Prairie View A&M University with a 4.0 and I aspire to be a Game Developer. 
-I love every aspect of Game Design and Game Developing. My favorite game genres are Fantasy, Single player, and Open-World games, but I love playing all types of games.
+---
 
-- 🧠 Interested in learning more about Unity and Unreal Engines 
-- 🎯 My long term Goals is to become a Great Game Developer and to publish my passion game 
-- 👾 I try to improve on all aspects of Game Developing 
-- 🎨 My Hobbies include playing Video Games, Hanging out with friends, and Game Jams 
+<h2 align="center">🧑‍💻 About Me</h2>
 
-### Software Dev Projects
+<p align="center">
+I love coding software projects and building games.<br/>
+I am more of a back-end developer, I enjoy the problem-solving challenges that programming entails ❤️.<br/>
+When I’m not working in construction, I like building projects and learning code.
+</p>
 
-- [Senior Design Project (HIDDEN)]()
-&nbsp;&nbsp;
-- [PVAMU RISE (HIDDEN)]()
-&nbsp;&nbsp;
+<p align="center">
+🎨 Hobbies: Playing video games · Hanging out with friends · Game jams
+</p>
 
+---
 
-### Game Dev Projects
+<h2 align="center">📂 Projects</h2>
 
-- [Kishotenketsu Patch it Later](https://github.com/Xlesiai/Kishotenketsu-Patch-it-Later)
-&nbsp;&nbsp;
-- [Ikea Level Design](https://github.com/Xlesiai/Ikea-Level-Design)
-&nbsp;&nbsp;
-- [Fire Temple Level Design](https://github.com/Xlesiai/Fire-Temple-Level-Design)
-&nbsp;&nbsp;
+<table align="center">
+  <tr>
+    <th>💻 Software</th>
+    <th>|</th>
+    <th>📱 Android</th>
+    <th>|</th>
+    <th>🎮 Game</th>
+    <th>|</th>
+    <th>📄 Research</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Xlesiai/Android-Ignition">Android Ignition</a><br/>
+      <a href="https://github.com/Xlesiai/Blindbox-Helper">AI Blindbox Helper</a><br/>
+      <a href="#">Senior Design</a>
+    </td>
+    <td align="center">|</td>
+    <td align="center">
+    <a href="https://github.com/Xlesiai/Pokedex">Pokedex (CodePath)</a><br/>
+    <a href="https://github.com/AND101-Group30/Nexa-Book-Recommender">Book Recommender (CodePath)</a><br/>
+    <a href="">Audiobook App</a><br/>
+    </td>
+    <td align="center">|</td>
+    <td align="center">
+      <a href="https://github.com/Xlesiai/Kishotenketsu-Patch-it-Later">Kishotenketsu: Patch it Later</a><br/>
+      <a href="https://github.com/Xlesiai/Ikea-Level-Design">Ikea Level Design</a><br/>
+      <a href="https://github.com/Xlesiai/Fire-Temple-Level-Design">Fire Temple Level Design</a>
+    </td>
+    <td align="center">|</td>
+    <td align="center">
+    <a href="https://ieeexplore.ieee.org/document/10849243">Multi-modal Classifier</a>
+    </td>
+  </tr>
+</table>
 
+---
 
-### Connect with me
-[website](michael-cardoso.dev)
-&nbsp;&nbsp;
-[youtube](https://www.youtube.com/channel/UCdG9FJTgxzhOv5zokt1O12Q)
-&nbsp;&nbsp;
-<a href="mailto:Nuxglwk.Xlesiai@gmail.com?subject=Mail" alt = "email is Nuxglwk.Xlesiai@gmail.com">Nuxglwk.Xlesiai@gmail.com</a>
-<a href="mailto:mikecar26@gmail.com?subject=Mail" alt = "email is mikecar26@gmail.com">mikecar26@gmail.com</a>
-&nbsp;&nbsp;
+<h2 align="center">🌐 Connect with Me</h2>
 
-### Languages and Tools
+<p align="center">
+  🌍 <a href="https://michael-cardoso.dev">Portfolio Website</a> · 
+  📺 <a href="https://www.youtube.com/channel/UCdG9FJTgxzhOv5zokt1O12Q">YouTube</a> · 
+  💼 <a href="https://www.linkedin.com/in/michael-cardoso-5b658416b/">LinkedIn</a>
+</p>
 
-<img align="left" alt="unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
+<p align="center">
+  📧 <a href="mailto:Nuxglwk.Xlesiai@gmail.com">Nuxglwk.Xlesiai@gmail.com</a> · 
+  <a href="mailto:mikecar26@gmail.com">mikecar26@gmail.com</a>
+</p>
 
-<img align="left" alt="unreal" width="26px" src="https://www.pngfind.com/pngs/m/435-4350837_unreal-engine-logo-png-transparent-png.png" style="padding-right:10px;" />
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-<img align="left" alt="c++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
-
-<img align="left" alt="c#" width="26px" src="https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png" style="padding-right:10px;" />
-
-<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
-
-<img align="left" alt="java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" style="padding-right:10px;" />
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-<br>
-<br>
-
-
-<details>
-  <summary>:zap: GitHub Stats :zap:</summary>
-  <img align="left" alt="Xlesiai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xlesiai&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
-
-[website]: https://Nuxglwk.space
-[email]: Nuxglwk.Xlesiai@gmail.com
-[youtube]: https://www.youtube.com/channel/UCdG9FJTgxzhOv5zokt1O12Q/featured
-[linkedin]: https://www.linkedin.com/in/michael-cardoso-5b658416b/
-[projects]: https://www.youtube.com/playlist?list=PLzhOA58UvV9MzxItPoCZPwm0j5pmbYiT_
-[Kishotenketsu Patch it Later]:https://www.youtube.com/playlist?list=PLzhOA58UvV9PR46DcwpQZ50eiZXSEo8Ph
-[Ikea Level Design]: https://www.youtube.com/playlist?list=PLzhOA58UvV9OmnW14E2tdXG65d9mRcDBA
-[Fire Temple Level Design]: https://www.youtube.com/playlist?list=PLzhOA58UvV9PQWqKbFqEgF0sX4Wwo6scu
-
-[unity]: https://www.youtube.com/playlist?list=PLzhOA58UvV9O586KqzJucbWnhDcC7Yb27
-[unreal]: https://www.youtube.com/playlist?list=PLzhOA58UvV9Ne5_fbozCgrhfEsQdsX0YM
-[c++]: https://www.youtube.com/watch?v=_bYFu9mBnr4&list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG
-[c#]: https://www.youtube.com/watch?v=qOruiBrXlAw&list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC
-[python]: https://www.youtube.com/watch?v=UjeNA_JtXME&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p
-[java]: https://www.youtube.com/watch?v=r3GGV2TG_vw&list=PL_c9BZzLwBRKIMP_xNTJxi9lIgQhE51rF
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+<p align="center">
+  <img alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+  <img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+  <img alt="C#" width="40px" src="https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png" />
+  <img alt="Java" width="40px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
+  <img alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img alt="Unreal" width="40px" src="https://www.pngfind.com/pngs/m/435-4350837_unreal-engine-logo-png-transparent-png.png" />
+  <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</p>
